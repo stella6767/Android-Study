@@ -50,8 +50,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="No account yet? Create one"
+            android:textSize="15dp"
             android:gravity="center"
-            android:textColor="@color/design_default_color_primary_variant"/>
+            android:textColor="@android:color/holo_blue_light"/>
 
     </LinearLayout>
 
