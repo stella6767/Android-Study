@@ -48,6 +48,7 @@
             <include layout="@layout/post_item" />
             <include layout="@layout/post_item" />
 
+
         </LinearLayout>
 
 
@@ -55,4 +56,5 @@
 
 
 </LinearLayout>
+
 
