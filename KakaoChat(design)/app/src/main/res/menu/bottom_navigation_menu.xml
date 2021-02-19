@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_person"
+        android:icon="@drawable/ic_person_outline"
+        android:title="" />
+
+    <item
+        android:id="@+id/bottom_chat"
+        android:icon="@drawable/ic_mark_chat"
+        android:title=""/>
+
+
+    <item
+        android:id="@+id/bottom_hashtag"
+        android:icon="@drawable/hashtag"
+        android:title="" />
+    <item
+        android:id="@+id/bottom_more"
+        android:icon="@drawable/ic_more_horiz"
+        android:title="" />
+
+</menu>
