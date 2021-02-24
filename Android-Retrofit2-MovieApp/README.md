@@ -1,6 +1,7 @@
 # Android-Retrofit2-MovieApp-V1-Design
 
-![blog](https://postfiles.pstatic.net/MjAyMDAxMDNfMzMg/MDAxNTc4MDM5NzUwODk2.a_YiKhJJh6g9lkOfjaWJGiCeAXHzM25dDdorPVmWWu4g.D-8xYkdaonKQrrcvGbeEvfAxkDMdLFjeLW_1gtyeGewg.PNG.getinthere/Screenshot_46.png?type=w773)
+![녹화_2021_02_24_16_49_38_403](https://user-images.githubusercontent.com/65489223/108966836-0d12c900-76c2-11eb-9872-6aa87354e696.gif)
+
 
 #### 1. Gradle
 ```gradle
